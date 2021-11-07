@@ -1,0 +1,4 @@
+﻿  AiSD_lab3_UnitTest.cpp
+C:\Users\Raccoon\source\repos\AiSD_lab3\AiSD_lab3\AiSD_lab3_BinaryHeap.h(34,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Raccoon\source\repos\AiSD_lab3\AiSD_lab3\AiSD_lab3_BinaryHeap.h(300,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  AiSD_lab3_UnitTest.vcxproj -> C:\Users\Raccoon\source\repos\AiSD_lab3\x64\Debug\AiSD_lab3_UnitTest.dll

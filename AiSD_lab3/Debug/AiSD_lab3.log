@@ -1,0 +1,11 @@
+﻿  AiSD_lab3_main.cpp
+C:\Users\spiri\source\repos\AiSD_lab3\AiSD_lab3\AiSD_lab3_BinaryHeap.h(289,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\spiri\source\repos\AiSD_lab3\AiSD_lab3\AiSD_lab3_BinaryHeap.h(332,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\spiri\source\repos\AiSD_lab3\AiSD_lab3\AiSD_lab3_BinaryHeap.h(333,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\spiri\source\repos\AiSD_lab3\AiSD_lab3\AiSD_lab3_BinaryHeap.h(358,17): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\spiri\source\repos\AiSD_lab3\AiSD_lab3\AiSD_lab3_BinaryHeap.h(358,55): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\spiri\source\repos\AiSD_lab3\AiSD_lab3\AiSD_lab3_BinaryHeap.h(363,45): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\spiri\source\repos\AiSD_lab3\AiSD_lab3\AiSD_lab3_BinaryHeap.h(363,84): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\spiri\source\repos\AiSD_lab3\AiSD_lab3\AiSD_lab3_BinaryHeap.h(368,17): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\spiri\source\repos\AiSD_lab3\AiSD_lab3\AiSD_lab3_BinaryHeap.h(370,26): warning C4018: <=: несоответствие типов со знаком и без знака
+  AiSD_lab3.vcxproj -> C:\Users\spiri\source\repos\AiSD_lab3\Debug\AiSD_lab3.exe
